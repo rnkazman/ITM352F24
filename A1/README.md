@@ -2,7 +2,7 @@
 
 We will walk through the first few steps of this assignment together, creating a simple quiz game where a user is presented with questions and can provide answers, and we keep score.  
 
-After creating the basic version of the game as a group you will extend the game on your own to add more useful features.
+After creating the basic version of the game as a group you will extend the game on your own to add more useful features. For example:
 
 <ol>
 <li>Quiz creator: Add a separate application that interactively asks for questions and answers and stores them in the proper JSON format.
